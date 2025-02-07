@@ -1,0 +1,15 @@
+{
+  "name": "valentines",
+  "version": "1.0.0",
+  "description": "A valentines desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Nguyen",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^34.1.1"
+  }
+}
